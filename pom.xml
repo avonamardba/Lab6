@@ -47,6 +47,7 @@
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-http-core_2.12</artifactId>
             <version>${akka-http.version}</version>
+            <scope>compile</scope>
         </dependency>
 
         <dependency>
