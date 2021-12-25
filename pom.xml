@@ -30,18 +30,21 @@
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-stream_2.12</artifactId>
             <version>${akka.version}</version>
+            <scope>compile</scope>
         </dependency>
 
         <dependency>
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-stream-testkit_2.12</artifactId>
             <version>${akka.version}</version>
+            <scope>compile</scope>
         </dependency>
 
         <dependency>
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-testkit_2.12</artifactId>
             <version>${akka.version}</version>
+            <scope>compile</scope>
         </dependency>
 
         <dependency>
